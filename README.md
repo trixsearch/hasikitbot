@@ -12,7 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
 
 ## **Futures**
-<details><summary>Check Bot Futures</summary>
+<details><summary>Check Bot Features</summary>
 <br>
 
 - [x] 𝑺𝒉𝒐𝒓𝒕𝒏𝒆𝒓 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝒊𝒏 𝑺𝒕𝒓𝒆𝒂𝒎 𝒂𝒏𝒅 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒇𝒆𝒂𝒕𝒖𝒓𝒆
@@ -52,9 +52,9 @@
 - [x] 𝐶ℎ𝑎𝑡 𝐷𝑖𝑠𝑎𝑏𝑙𝑒
 - [x] Ai.𝑆𝑝𝑒𝑙𝑙𝑖𝑛𝑔 𝐶ℎ𝑒𝑐𝑘 𝐹𝑒𝑎𝑡𝑢𝑟𝑒
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
-- [x] Refer future
-- [x] Redeem Code Future
-- [x] Top Trending future
+- [x] Refer feature
+- [x] Redeem Code Feature
+- [x] Top Trending feature
 - [x] Most Search
 - [x] Set ads 
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
