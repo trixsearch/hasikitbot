@@ -11,7 +11,7 @@
 `/commands` Enter this command inside the bot and all the commands will be set automatically.
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
 
-## **Futures**
+## **Features**
 <details><summary>Check Bot Features</summary>
 <br>
 
